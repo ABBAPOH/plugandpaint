@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Plug and Paint
+GenericName=Plug and Paint
+Exec=plugandpaint
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=plugandpaint
+Categories=System;

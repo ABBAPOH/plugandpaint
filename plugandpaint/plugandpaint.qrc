@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>plugandpaint.png</file>
+    </qresource>
+</RCC>
